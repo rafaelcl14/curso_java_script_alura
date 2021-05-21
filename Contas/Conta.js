@@ -1,3 +1,4 @@
+// classe abstrata
 export class Conta{
     constructor( saldoInicial, cliente, agencia){
         if (this.constructor == Conta) {
